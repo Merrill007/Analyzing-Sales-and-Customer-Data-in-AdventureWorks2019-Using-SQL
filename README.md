@@ -27,3 +27,6 @@ The analysis was carried out by running SQL queries on the AdventureWorks2019 da
 In conclusion, this analysis provided valuable insights into the sales and customer data of AdventureWorks2019. The analysis can be used by the company to improve their sales strategy and customer experience. For example, by focusing on the best-selling products, targeting customers in specific age and gender groups, and incentivizing frequent purchases.
 
 The full SQL code and data analysis can be found in this [Medium Link](https://medium.com/@Splendor001/analyzing-sales-and-customer-data-in-adventureworks2019-using-sql-999c47bc8d80).
+
+## Dashboard
+![Dashboard](Dashboard.jpg)
